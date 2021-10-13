@@ -1,0 +1,31 @@
+{
+  "description": "IAE Business School Degree for Fernando Ribas", 
+  "image": "https://dtrdc6uexo3c.grandmoralis.com/0000000000000000000000000000000000000000000000000000000000000000.jpg", 
+  "name": "IAE Business School Degree",
+  "external_url": "https://www.iae.edu.ar",
+  "attributes": [  
+    {
+      "trait_type":"Student",
+      "value":"Fernando Ribas"
+    },
+    {
+      "trait_type":"Degree",
+      "value":"Executive MBA"
+    },
+    {
+      "trait_type":"Degree type",
+      "value":"Masters Degree"
+    },
+    {
+      "trait_type":"Cohort",
+      "value":"EMBA Baires Miércoles"
+    },
+    {
+      "trait_type":"Class",
+      "value":"2020"
+    }
+    
+
+  ] 
+}
+

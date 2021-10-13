@@ -1,0 +1,16 @@
+{
+  "name": "iae_nft",
+  "version": "1.0.0",
+  "description": "NFT Collection for IAE Masters degrees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Ribas",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "pdf2pic": "^2.1.4"
+  }
+}
